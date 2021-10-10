@@ -1,1 +1,1 @@
-# STAT447Project
+This is the project for STAT447
