@@ -3,7 +3,9 @@ This is zihan !
 I am Shiyuan Wang.  
 TOday is Sunday!  
 Now is good!  
-songyuan is here/
+songyuan is here\
+
+I'm Kimmy, glad to meet you guys!
 
 new line
 
